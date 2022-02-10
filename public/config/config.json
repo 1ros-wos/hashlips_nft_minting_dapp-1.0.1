@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xfdF922AE421a2e00079D80925cAB828232293564",
+  "SCAN_LINK": "https://etherscan.io/token/0xfdF922AE421a2e00079D80925cAB828232293564",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Ether",
+    "ID": 1
+  },
+  "NFT_NAME": "Kitty The Oyen",
+  "SYMBOL": "KTO",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.0001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/kittytheoyen",
+  "SHOW_BACKGROUND": false
+}
